@@ -1174,7 +1174,6 @@ ul {
 	Fixed position, hides text when zooming in
 */
     overflow: hidden;
-    text-overflow: hidden;
     max-width: 1000px;
     max-height: 20px;
     border-left:1em solid transparent;
