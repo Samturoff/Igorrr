@@ -55,6 +55,14 @@ Gross Barbe	Igorrr
 Corpo Mente	Igorrr
 Cheval		Igorrr
 
+Text
+The Artist  All Music(https://www.allmusic.com/artist/igorrr-mn0002587287/biography)
+Collaborations  All Music(https://www.allmusic.com/artist/igorrr-mn0002587287/biography)
+Discography Wikipedia(https://en.wikipedia.org/wiki/Igorrr)
+Musical Work Europa Vox(https://www.europavox.com/bands/igorrr/)
+The Chickens Paragraph 1  Wonderbox Metal(https://wonderboxmetal.com/2017/06/29/interview-with-igorrr/)
+The Chickens Paragraph 2  Laughing Squid(https://laughingsquid.com/a-talented-chicken-named-patrick-plucks-out-a-melodic-tune-on-a-miniature-piano/)
+
 
 
 
